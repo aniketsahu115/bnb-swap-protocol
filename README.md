@@ -74,15 +74,36 @@ npm run build:frontend
 ## Project Structure
 
 ```
-├── contracts/           # Smart contracts
-│   └── interfaces/     # Contract interfaces
-├── frontend/           # React frontend application
+bnb-swap-protocol/
+├── frontend/
 │   ├── src/
-│   │   ├── components/ # React components
-│   │   ├── contexts/   # React contexts
-│   │   ├── hooks/      # Custom hooks
-│   │   └── utils/      # Utility functions
-├── scripts/            # Deployment scripts
-├── test/              # Contract tests
-└── ignition/          # Hardhat ignition modules
+│   │   ├── components/
+│   │   │   ├── WalletConnection.jsx
+│   │   │   ├── TokenSelector.jsx
+│   │   │   ├── SwapInterface.jsx
+│   │   │   └── TransactionHistory.jsx
+│   │   ├── hooks/
+│   │   │   ├── useWallet.js
+│   │   │   ├── useSwap.js
+│   │   │   └── useTokens.js
+│   │   ├── utils/
+│   │   │   ├── constants.js
+│   │   │   ├── contracts.js
+│   │   │   └── helpers.js
+│   │   ├── contexts/
+│   │   │   └── Web3Context.jsx
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── package.json
+│   ├── vite.config.js
+│   └── tailwind.config.js
+├── contracts/
+│   ├── SwapHelper.sol
+│   └── interfaces/
+│       └── IERC20.sol
+├── scripts/
+│   └── deploy.js
+├── hardhat.config.js
+├── package.json
+└── README.md
 ```
