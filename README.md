@@ -6,12 +6,12 @@ A decentralized token swap application for BNB Smart Chain that provides a user-
 
 - **Token Swapping**: Swap any BEP-20 tokens through PancakeSwap Router
 - **Real-time Pricing**: Get live price quotes and slippage protection
-**Wallet Integration**: Connect with MetaMask and other Web3 wallets
-**Responsive Design**: Works seamlessly on desktop and mobile
-**Fee Structure**: Built-in fee mechanism for sustainable operations
-**Transaction History**: Track your swap history
-**Slippage Protection**: Customizable slippage tolerance
-**Multi-token Support**: Support for popular BSC tokens
+- **Wallet Integration**: Connect with MetaMask and other Web3 wallets
+- **Responsive Design**: Works seamlessly on desktop and mobile
+- **Fee Structure**: Built-in fee mechanism for sustainable operations
+- **Transaction History**: Track your swap history
+- **Slippage Protection**: Customizable slippage tolerance
+- **Multi-token Support**: Support for popular BSC tokens
 
 ## Tech Stack
 
