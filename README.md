@@ -111,7 +111,7 @@ The main contract that facilitates token swaps through PancakeSwap Router:
 - Multi-path Routing: Supports direct and multi-hop swaps
 - Emergency Functions: Owner can update parameters
 **Key Functions**
-```bash
+```solidity
 function swapTokens(
     address tokenIn,
     address tokenOut,
@@ -218,5 +218,4 @@ bnb-swap-protocol/
 For support and questions:
 
 - GitHub Issues: Create an issue
-- Discord: Join the BNB Chain Discord
-- Twitter: Follow @aniketsahu115
+- Discord: [Join the BNB Chain Discord](https://discord.gg/cZs4VeYX)
