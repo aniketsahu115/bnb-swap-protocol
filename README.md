@@ -75,7 +75,7 @@ npm run verify
 
 Update `frontend/src/utils/constants.js` with your deployed contract address:
 
-```bash
+```javascript
 export const CONTRACT_ADDRESSES = {
   SWAP_HELPER: 'YOUR_DEPLOYED_CONTRACT_ADDRESS', // Add this line
   PANCAKE_ROUTER: '0xD99D1c33F9fC3444f8101754aBC46c52416550D1',
