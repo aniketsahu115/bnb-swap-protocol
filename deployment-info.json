@@ -1,0 +1,8 @@
+{
+  "network": "BSC Testnet",
+  "contractAddress": "0x65d31688983Fbc145216833E2b228d89193bb62b",
+  "pancakeRouter": "0xD99D1c33F9fC3444f8101754aBC46c52416550D1",
+  "wbnb": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+  "deploymentTime": "2025-09-03T10:33:42.216Z",
+  "txHash": "0xdda9bc794dbeeb897c907de6a4822765f302e9925a19da418963a4af7e6c1df4"
+}
