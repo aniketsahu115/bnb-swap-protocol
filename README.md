@@ -15,11 +15,11 @@ A decentralized token swap application for BNB Smart Chain that provides a user-
 
 ## Tech Stack
 
-**Frontend**: React.js + Vite + Tailwind CSS
-**Blockchain**: BNB Smart Chain (BSC Testnet & Mainnet)
-**Smart Contracts**: Solidity with Hardhat
-**Web3 Integration**: ethers.js v6
-**DEX Integration**: PancakeSwap Router V2
+- **Frontend**: React.js + Vite + Tailwind CSS
+- **Blockchain**: BNB Smart Chain (BSC Testnet & Mainnet)
+- **Smart Contracts**: Solidity with Hardhat
+- **Web3 Integration**: ethers.js v6
+- **DEX Integration**: PancakeSwap Router V2
 
 ## Prerequisites
 
