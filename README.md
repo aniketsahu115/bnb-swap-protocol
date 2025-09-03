@@ -47,7 +47,7 @@ cd ..
 
 3. **Environment Setup**
 Create a `.env` file in the root directory:
-```bash
+```.env
 PRIVATE_KEY=your_private_key_here
 BSCSCAN_API_KEY=your_bscscan_api_key_here(Optional for Verification)
 ```
